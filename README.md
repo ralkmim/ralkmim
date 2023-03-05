@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Losch Digital Lab
 - 🌱 I’m currently studying Computer and Software Engineering at Universidade de Aveiro
 <!-- 
